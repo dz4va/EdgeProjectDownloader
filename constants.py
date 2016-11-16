@@ -2,7 +2,7 @@
 PLF = "project_list.json"                   # File that contains project list
 PFD = "ProjectFiles"                        # Project Files directory
 
-DOMAIN = "https://edge-client01.lanl.gov/"  # Domain where EDGE is running
+DOMAIN = "localhost:3333"  # Domain where EDGE is running
 LOG = "/process.log"                        # Process.log file
 
 EO = "EDGE_output/"                         # Edge Output
